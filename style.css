@@ -1,0 +1,14 @@
+﻿.jumbotron {
+    background-image: url(lobster2.jpg);
+    background-position: center, center;
+    background-size: cover;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+.feature{
+    text-align: center;
+}
+.feature .glyphicon{
+    font-size: 400%;
+    color: goldenrod;
+}
